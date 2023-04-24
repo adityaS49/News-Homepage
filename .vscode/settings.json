@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5503,
+    "task.saveBeforeRun": "prompt",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
